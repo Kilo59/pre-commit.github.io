@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+libsass = "*"
+markdown-code-blocks = "*"
+markdown-to-presentation = ">=0.0.12"
+pre-commit = ">=0.13.6"
+"aspy.yaml" = "*"
+Mako = "*"
+pybadges = "*"
+
+[requires]
+python_version = "3.7"
